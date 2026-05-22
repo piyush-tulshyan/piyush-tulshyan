@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**piyush-tulshyan/piyush-tulshyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Manager building technical depth in AI systems, decision intelligence, and workflow automation.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Decision intelligence systems
+- AI-native operational workflows
+- Agentic orchestration and automation
+- Retrieval-Augmented Generation (RAG)
+- Forecasting and optimization platforms
+- Human-in-the-loop AI systems
+
+---
+
+## What I'm Building
+
+### AI Workflow Copilots
+LLM-driven assistants for product strategy, operational execution, and workflow acceleration.
+
+### Retail Optimization Simulators
+Systems exploring inventory disposition, pricing optimization, and recovery intelligence.
+
+### Product Infrastructure Notes
+Technical product thinking around APIs, event-driven systems, orchestration layers, and scalable AI architectures.
+
+---
+
+## Background
+Senior Product Manager at Amazon with experience in pricing, inventory optimization, returns, and AI-enabled workflow automation.
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/piyushtulshyan/
